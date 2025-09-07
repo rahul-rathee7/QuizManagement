@@ -8,8 +8,10 @@ Quiz-Application Using MERN Stack Technology: In this project there are two port
 ## Installation
 
 ```bash
-# Make sure you have your own url for mongodb cluster add it in the .env file to store data in your databases for Ex-
-mongodb+srv://<Name>:<Password>@cluster0.4u4rtje.mongodb.net/
+# You have to create 2 .env files one should be in root directory and another should be /server directory keep that in mind.
+# Make sure you have your own url for mongodb cluster/Atlas and JWT_SECRET add it in the .env file to store data in your databases for Ex-
+MONGO_URL = mongodb+srv://<Name>:<Password>@cluster0.4u4rtje.mongodb.net/
+JWT_SECRET = here is your own jwt token
 
 # Install dependencies for server in the root directory
 npm install
