@@ -29,28 +29,28 @@ npm start
 
 
 <i><h2>1) Registration Page</h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/register.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/register.png"/>
 <i><h2>2) Login Page</h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/login.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/login.png"/>
 <i><h2>3) Admin Profile Home Page</h2></i>
 <img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Admin_homePage.png"/>
 <i><h2>4) Add Quiz Page in which Admin Post the Quiz into the MongoDB Database</h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/Add_Exams.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Add_Exams.png"/>
 <i><h2>5) Add Questions in Quiz </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/Add_questions.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Add_questions.png"/>
 <i><h2>6) Edit Exam by Admin </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/Admin_edit_exam.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Admin_edit_exam.png"/>
 <i><h2>7) Edit Que by Admin </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/Admin_edit_question.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Admin_edit_question.png"/>
 <i><h2>8) User's Profile </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/User_Home_page.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/User_Home_page.png"/>
 <i><h2>9) Instructions before exam </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/User_Instructions.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/User_Instructions.png"/>
 
 <i><h2>10) User Result</h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/User_results.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/User_results.png"/>
 
 <i><h2>11) Reports of all users that can be seen by only admin </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/Admin_report.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/Admin_report.png"/>
 <i><h2>12) User can see only his/her report </h2></i>
-<img src="https://github.com/rahul-rathee7/QuizManagement/tree/main/images/User_report.png"/>
+<img src="https://github.com/rahul-rathee7/QuizManagement/blob/main/images/User_report.png"/>
